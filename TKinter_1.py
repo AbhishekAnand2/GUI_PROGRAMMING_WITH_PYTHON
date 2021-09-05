@@ -24,3 +24,10 @@ root.title('First Program.')
 # Show on the window.
 label = Label(root, text = "Hello World!").pack()
 
+
+
+# calling mainloop method which is used
+# when your application is ready to run
+# and it tells the code to keep displaying
+
+root.mainloop()
